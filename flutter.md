@@ -31,3 +31,6 @@ run: flutter run -d chrome
 build: flutter build web
 在vscode里的热更新并不是保存一下就自动更新了，而是需要按一下字母r键
 依赖项在dependencies里面，flutter packages get下载依赖
+
+## 其他
+flutter doctor报无法检查jdk manager的licenses，原因是jdk版本过高，降到1.8以下即可
