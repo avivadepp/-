@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T17:37:13.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.6" etag="ftNOUDKGxCIxDA-2xVa0" type="github"><diagram id="lrXebkCnc7quKLrtKtps">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-05T18:09:08.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="FP0O4RKJ6kA3xefRqLw9" version="14.6.6" type="github">
+  <diagram id="lrXebkCnc7quKLrtKtps" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-1" value="战区物流经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YxNBLbbIIgkdvURAyUkm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="350" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-3" value="大区物流经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-9" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YxNBLbbIIgkdvURAyUkm-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-10" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="160" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-13" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="160" as="sourcePoint" />
+            <mxPoint x="560" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-15" value="渠道规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YxNBLbbIIgkdvURAyUkm-15" target="YxNBLbbIIgkdvURAyUkm-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="330" as="sourcePoint" />
+            <mxPoint x="120" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-17" value="老板/操盘手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-18" value="物流运营(专送/众包)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-19" value="专送团长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-20" value="老板/操盘手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-21" value="转送配送经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="185" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-29" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YxNBLbbIIgkdvURAyUkm-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-30" value="" style="endArrow=none;html=1;entryX=0.4;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YxNBLbbIIgkdvURAyUkm-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="476" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-31" value="后勤行政" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-32" value="区域经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-33" value="站长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-34" value="" style="endArrow=none;html=1;entryX=0.435;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YxNBLbbIIgkdvURAyUkm-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-36" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YxNBLbbIIgkdvURAyUkm-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="402" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-37" value="调度/队长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="490" width="117.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-40" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YxNBLbbIIgkdvURAyUkm-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="401" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-41" value="骑手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="550" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-42" value="众包团长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-44" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YxNBLbbIIgkdvURAyUkm-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-45" value="众包配送经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-46" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YxNBLbbIIgkdvURAyUkm-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxNBLbbIIgkdvURAyUkm-47" value="骑手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
